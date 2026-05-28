@@ -1,0 +1,6 @@
+{
+  "name": "CodeSpark",
+  "description": "An interactive coding education platform with a live editor, challenges, and an AI mentor assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
